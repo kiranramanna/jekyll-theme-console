@@ -1,13 +1,20 @@
+title: 'kiranramanna.github.io'
+description: "Thinkit - Research and personal blog on various learnings."
+baseurl: "/thinkit"
+url: "https://kiranramanna.github.io"
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - kiranramanna.md
+  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+style: hacker
 
+footer: 'follow me on <a href="https://www.linkedin.com/in/kiranramanna/">linkedin</a>'
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
