@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Deepseek R1 - stock market impact"
+date:   2025-01-22 23:52:00 +0900
+categories: LLM deepseek
+---
 **🤯 AI Landscape SHAKEN! 🇨🇳 DeepSeek's Arrival & What It Means For Us All** 🚀
 
 Buckle up, tech enthusiasts! The AI world is experiencing a seismic shift, and it’s an incredible time to be part of this industry! 🤓 Let's break down what's happening:
