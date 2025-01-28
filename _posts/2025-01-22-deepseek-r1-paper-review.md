@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deepseek R1 Paper review"
-date:   2024-01-22 00:42:45 +0900
+date:   2025-01-22 00:42:45 +0900
 categories: LLM deepseek
 ---
 
